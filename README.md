@@ -1,6 +1,6 @@
 # 🧬 Nanopore Sequencing Workshop: Chloroplast Genome Assembly
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Nanopore_Chloroplast_Workshop_RealData.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgmiller/Genome-on-the-Go/blob/main/Nanopore_Chloroplast_Workshop_RealData.ipynb)
 
 **A hands-on bioinformatics workshop for analyzing real Oxford Nanopore MinION sequencing data.**
 
@@ -66,5 +66,6 @@ Ensure you upload **both** the `.fastq` and `.fasta` files when prompted in Step
 ---
 
 ## 📜 Credits
-* **Notebook Author:** [Your Name/Organization]
+* **Notebook Author:** Chelsea Miller / University of Hawaii at Manoa / Hawaii INBRE
 * **Tools Used:** [Biopython](https://biopython.org/), [Minimap2](https://github.com/lh3/minimap2), [Samtools](http://www.htslib.org/), [Bcftools](http://samtools.github.io/bcftools/).
+* **Note:** This module was developed with the assistance of AI.
