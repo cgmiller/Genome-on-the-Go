@@ -1,6 +1,6 @@
 # 🧬 Nanopore Sequencing Workshop: Chloroplast Genome Assembly
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgmiller/Genome-on-the-Go/blob/main/Nanopore_Chloroplast_Workshop_RealData.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgmiller/Genome-on-the-Go/blob/main/Genome_on_the_Go_Workshop_12Feb2026.ipynb)
 
 **A hands-on bioinformatics workshop for analyzing real Oxford Nanopore MinION sequencing data.**
 
